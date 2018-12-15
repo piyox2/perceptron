@@ -1,4 +1,4 @@
 # perceptron
 up test
 
-commit できない
+commit
