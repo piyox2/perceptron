@@ -1,4 +1,0 @@
-# perceptron
-up test
-
-pushできない
